@@ -1,0 +1,8 @@
+manifestVersion: 1
+name: "@mesgme/hertzner"
+version: "2026.09.11.1"
+description: "Start and stop a named Hetzner Cloud server via the Hetzner Cloud API"
+paths:
+  base: manifest
+models:
+  - extensions/models/hertzner.ts
